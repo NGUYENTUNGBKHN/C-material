@@ -1,0 +1,17 @@
+1. char* difference const char * ?
+ - const char * : this is a poniter to a constant character. we can't change value pointed, but we can change the pointer itself
+ - char * : this is a pointer 
+ - char *const : this is constant pointer and non-const character. we can't change pointer but can change value pointed
+ - const char *const : this is a constant pointer and constant character. we can't change anything.
+ *note : const is contant in anyway
+2. key word "static" ?
+ - Static variables have a property of preserving their value even after they are out of their scope!
+3. key word "volatile" ?
+ - Used for variable usually change value. prevent optimizition 
+4. key word "extern"
+ - share value a variable with multiple modules together
+5. what is singleton pattern ?
+ - According Gang of Four patterns, that is the book famous about design patterns, singleton pattern is one of five design patterns.
+ -  
+6. key word "virtual" ?
+7. what is the "contructor" and "destructor" ?
